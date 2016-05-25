@@ -1,0 +1,16 @@
+PODS:
+  - oxPush (0.1.0)
+
+DEPENDENCIES:
+  - oxPush (from `../`)
+
+EXTERNAL SOURCES:
+  oxPush:
+    :path: ../
+
+SPEC CHECKSUMS:
+  oxPush: 9cf8e8faa1d491506f36d93f5e2d0ec70d01da44
+
+PODFILE CHECKSUM: 55d5a4482a472123b22f042051edaf7dcaedccff
+
+COCOAPODS: 1.0.0

@@ -1,0 +1,6 @@
+framework module Pods_oxPush_Example {
+  umbrella header "Pods-oxPush_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
