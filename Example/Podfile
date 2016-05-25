@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'oxPush_Example' do
+  pod 'oxPush', :path => '../'
+
+  target 'oxPush_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
